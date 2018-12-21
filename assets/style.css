@@ -1,0 +1,28 @@
+/* css for styles */
+
+.jumbotron {
+  background-color: #00334d;
+  text-align: center;
+  color: #ffffff;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+}
+
+.panel {
+  border: solid 3px;
+}
+
+.panel-title {
+  font-weight: bold;
+  color: white;
+}
+
+.article-list a {
+  cursor: pointer;
+}
+
+.caps {
+  color: gray;
+}
