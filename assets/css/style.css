@@ -1,0 +1,19 @@
+/* css for styles */
+
+.jumbotron {
+  background-color: #00334d;
+  text-align: center;
+  color: #ffffff;
+}
+
+.panel-title {
+  font-weight: bold;
+}
+
+.article-list a {
+  cursor: pointer;
+}
+
+.caps {
+  color: gray;
+}
